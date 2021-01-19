@@ -1,6 +1,6 @@
 # ejercicios_assembler
 
-Colección de ejercicios sobre programación del PIC16F88 para la materias Aplicación de Electrónica Digital e Instalaciones Industriales,
+Colección de ejercicios sobre programación del PIC16F88 para las materias Aplicación de Electrónica Digital e Instalaciones Industriales,
 de la Tecnicatura en Electrónica.
 
 ## Descripción
